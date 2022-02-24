@@ -33,13 +33,13 @@ This is a simple laravel 8 PDF Upload and Viewer app.
 First understand the requirements then created a layout. Created all the required fields to upload a pdf with proper
 validation both on front and backend side. Listing the data using mysql database with a limit of 10 in descending order.
 
-## what i liked about this project
+## What i liked about this project
 It is simple for end user to upload and view the pdf without using html iframe/embed/object tags.
 
-## what you didn’t like
+## What you didn’t like
 It is good project. There is nothing which i don't like.
 
-## where i faced issues
+## Where i faced issues
 To convert pdf pages in html canvas.
 
 
