@@ -5,7 +5,7 @@ This is a simple laravel 8 Dynamic Form Generator app.
 
 ## How to install and run on your local system
 1. git clone https://github.com/pintuburman/laravel-pdf-upload-and-viewer.git
-2. cd laravel_dynamic_form_generator/
+2. cd laravel-pdf-upload-and-viewer/
 3. In project path type terminal type **composer install**
 4. In project path type terminal type **npm install**
 5. In project path type terminal type **cp .env.example .env** (Note: In windows use this command **copy .env.example .env**)
