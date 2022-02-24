@@ -1,7 +1,7 @@
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
-## Laravel Dynamic Form Generator
-This is a simple laravel 8 Dynamic Form Generator app.
+## Laravel PDF Upload and Viewer
+This is a simple laravel 8 PDF Upload and Viewer app.
 
 ## How to install and run on your local system
 1. git clone https://github.com/pintuburman/laravel-pdf-upload-and-viewer.git
