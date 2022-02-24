@@ -6,8 +6,11 @@ This is a simple laravel 8 PDF Upload and Viewer app.
 ## Tech stack used, including specific libraries / versions.
 **Front-end side:**<br />
    ○ Bootstrap / Version 5<br />
-   ○ Alertify / Version 1.13.1<br />
-   ○ Jquery / Version 3.6.0<br />
+   
+**JS Libraries used** <br/>
+    ○ pdf.js /version 2.0.385 <br />
+    ○ Alertify / Version 1.13.1<br />
+    ○ Jquery / Version 3.6.0<br />
 
 **Back-end side:**<br />
         **Framework:** <br />
