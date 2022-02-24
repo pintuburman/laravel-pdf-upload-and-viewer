@@ -30,7 +30,7 @@ This is a simple laravel 8 PDF Upload and Viewer app.
 8. In project path terminal type **php artisan migrate** (Note: Make sure phpmyadmin **Apache and Mysql** is started and **database is created**)
 9. In project path terminal type **php artisan serve** (if the server opens up, **http://127.0.0.1:8000,**  then we are good to go)
 
-**Note:** sample **pdfuploadandviewer.sql** file there on root folder if you don't want to skip step 8. Just import the file in your database. 
+**Note:** sample **pdfuploadandviewer.sql** file there on root folder if you want to skip step 8. Just import the file in your database. 
 
 
 ## Aproach to build the project
